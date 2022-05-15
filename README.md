@@ -9,6 +9,6 @@ I am passionate about data science(Statistics, Analytics, Machine Learning, Time
 
 <p align="center">
   ![octocat](https://github.com/MeryemBelkhayat/MeryemBelkhayat/blob/main/octocat.png?raw=true)
-)
+
 </p>  
 
