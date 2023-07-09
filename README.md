@@ -1,5 +1,5 @@
 <h1 align="center">Yo!, I'm Meryem Belkhayat 😄 </h1>
-<p align="center"> Data Scientist | AI/NLP Intern </p>
+<p align="center"> Data Scientist | AI/NLP Intern at OCP Solutions </p>
 <h2 align="center">I believe every project is a work of art, and as da Vinci once said, art is never finished, only abandoned.</h2>
 
 ## 💫 About Me:
