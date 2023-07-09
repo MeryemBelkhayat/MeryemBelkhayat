@@ -14,7 +14,7 @@ Passionate Data Science graduate with a knack for using AI to revolutionize how 
 
 ## 🌐 Get in Touch:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/meryem-belkhayat-5a90561b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/meryem-belkhayat-5a90561b9)
 
 
 
