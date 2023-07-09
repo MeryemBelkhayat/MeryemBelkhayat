@@ -3,7 +3,7 @@
 <h2 align="center">I believe every project is a work of art, and as da Vinci once said, art is never finished, only abandoned.</h2>
 
 ## 💫 About Me:
-Passionate Data Science graduate with a knack for using AI to revolutionize how we interact with data and information.<br><br>My academic journey has equipped me with a solid foundation in transforming raw data into actionable insights, and through hands-on experience during internships, I've tackled real-world problems and applications.<br><br>If you're looking for a data enthusiast who is eager to learn, adapt, and make a positive impact, let's connect! I'm excited to explore new opportunities in data science, ML&DL, generative AI, or NLP. 
+Passionate Data Science graduate with a knack for using AI to revolutionize how we interact with data and information.<br><br>My academic journey has equipped me with a solid foundation in transforming raw data into actionable insights, and through hands-on experience during internships, I've tackled real-world problems and applications.<br><br>I'm constantly excited to explore new opportunities in the field of data science, machine learning, and deep learning, as well as generative AI and NLP.
 
 
 
